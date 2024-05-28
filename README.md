@@ -1,11 +1,5 @@
 ### Hi there 👋, my name is Salauat
 #### Astana, Kazakhstan
-![Astana, Kazakhstan](https://media-exp1.licdn.com/dms/image/C4E16AQHycNYdx4K2Eg/profile-displaybackgroundimage-shrink_200_800/0/1644856991498?e=1650499200&v=beta&t=YjmIsDY4tVTymOPLbI9pKKqQiFNOFu8D6eWmUemmsi8)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/salawhaaat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/salauat-kakimzhanov-b5ba64231/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/salawhaaat/)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=salawhaaat&show_icons=true)  
-
 ## Salauat Kakimzhanov
 ✉️ [salawhaaat@gmail.com](mailto:salawhaaat@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/salauat-kakimzhanov-b5ba64231/) | [GitHub](https://github.com/salawhaaat)
