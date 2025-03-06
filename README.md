@@ -21,7 +21,7 @@ I'm a passionate Software Engineer with experience in backend development, cloud
 ---
 
 ### 💼 Work Experience
-- **Software Engineer Intern** *(Aug. 2024 – Present)*  
+- **Software Engineer Intern** *(Aug. 2024 – Feb. 2025)*  
   *ITS Partner - Philips, Signify Project (Smart Home System)*
   - Developed a log transfer tool for Amazon S3, reducing manual file transfer time by 94%.
   - Built an automated script execution service, saving 200+ hours/month.
