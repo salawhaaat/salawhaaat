@@ -1,20 +1,20 @@
-# 🌐 Personal Website — [salawhaaat.com](https://salawhaaat.com)
+# 👋 Hi, I'm Salauat Kakimzhanov  
 
-Hi, I’m **Salauat Kakimzhanov** — a backend & platform engineer passionate about **Go**, **Kubernetes**, and **AWS**.  
-This repo contains the source code for my personal website, built with **Hugo** + **Blowfish**, deployed via **Cloudflare Pages**.
+🎯 **Backend / Platform Engineer** focused on Go, Kubernetes, and AWS.  
+Currently pursuing an **M.S. in Computer Engineering at NYU**, exploring how AI and robotics can improve healthcare accessibility.  
+
+💡 Co-led **[APRIL](https://hrilab.kz/home)** — a multi-robot autism therapy platform serving 2,000+ children.  
+🧩 Contributor at **CNCF / KubeVirt**, enhancing Kubernetes virtualization systems.  
+
+🌐 Check out my website → [salawhaaat.com](https://salawhaaat.com)  
+✉️ [salawhaaat@gmail.com](mailto:salawhaaat@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/salawhaaat) · 🐙 [GitHub](https://github.com/salawhaaat)
 
 ---
 
-### ✍️ Articles
-- 🧠 [How Recruiters Actually Read Your Resume](https://salawhaaat.com/blog/how-recruiters-read/)
+### ✍️ Latest Articles
+- 🧠 [How Recruiters Actually Read Your Resume](https://salawhaaat.com/blog/how-recruiters-read/)  
 - 💡 [Try Even If You Know It’s Impossible](https://salawhaaat.com/blog/try-even-if-you-know-its-impossible/)
 
 ---
 
-### ⚙️ Tech Stack
-**Framework:** [Hugo](https://gohugo.io)  
-**Theme:** [Blowfish](https://blowfish.page)  
-**Hosting:** [Cloudflare Pages](https://pages.cloudflare.com)  
-**Extras:** Firebase (views & likes), BuyMeACoffee
-
----
+> “Technology is not about complexity — it’s about compassion.”
