@@ -3,7 +3,7 @@
 🎯 **Backend / Platform Engineer** focused on Go, Kubernetes, and AWS.  
 Currently pursuing an **M.S. in Computer Engineering at NYU**, exploring how AI and robotics can improve healthcare accessibility.  
 
-💡 Co-led **[APRIL](https://hrilab.kz/home)** — a multi-robot autism therapy platform serving 2,000+ children.  
+💡 Co-led **APRIL** — a multi-robot autism therapy platform serving 2,000+ children.  
 🧩 Contributor at **CNCF / KubeVirt**, enhancing Kubernetes virtualization systems.  
 
 🌐 Check out my website → [salawhaaat.com](https://salawhaaat.com)  
