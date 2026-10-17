@@ -1,10 +1,12 @@
-# 👋 Hi, I'm Salauat Kakimzhanov  
+# 👋 Hi, I'm Salauat Kakimzhanov
 
-🎯 **Backend / Platform Engineer** focused on Go, Kubernetes, and AWS.  
-Currently pursuing an **M.S. in Computer Engineering at NYU**, exploring how AI and robotics can improve healthcare accessibility.  
+🎯 **Ex-SDE Intern @ AWS | MS @ NYU**: software engineer building cloud and distributed systems with Go, Kubernetes and AWS.  
+Finishing an **M.S. in Computer Engineering at NYU** (May 2027). Open to 2027 new-grad roles in backend, cloud and ML infrastructure.
 
-💡 Co-led **APRIL** — a multi-robot autism therapy platform serving 2,000+ children.  
-🧩 Contributor at **CNCF / KubeVirt**, enhancing Kubernetes virtualization systems.  
+☁️ **AWS Backup (Data Protection)**: eliminated manual data checks across 50M+ items and cut redundant storage export cost by ~66%.  
+🧩 **KubeVirt (CNCF), Google Summer of Code 2025**: sped up release validation by 25% and merged 6 production PRs.  
+💡 Co-led **APRIL**, a robot-assisted therapy platform used by 2,000+ children with autism across 7 therapy centers.  
+🛠️ Building **Solo IDE & Solo Vault**: a desktop AI IDE in Rust and Tauri with a serverless AWS retrieval backend.
 
 🌐 Check out my website → [salawhaaat.com](https://salawhaaat.com)  
 ✉️ [salawhaaat@gmail.com](mailto:salawhaaat@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/salawhaaat) · 🐙 [GitHub](https://github.com/salawhaaat)
@@ -17,4 +19,4 @@ Currently pursuing an **M.S. in Computer Engineering at NYU**, exploring how AI 
 
 ---
 
-> “Technology is not about complexity — it’s about compassion.”
+> “Technology is not about complexity, it’s about compassion.”
